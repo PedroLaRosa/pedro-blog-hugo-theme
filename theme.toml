@@ -11,7 +11,5 @@ features = ["blog", "technical", "personal"]
 min_version = "0.41.0"
 
 [author]
-  name = "Pedro Luis La Rosa Doganieri"
-  homepage = "pedrolarosa.com"
-
-
+name = "Pedro Luis La Rosa Doganieri"
+homepage = "pedrolarosa.com"
